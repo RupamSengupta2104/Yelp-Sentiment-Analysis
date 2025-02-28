@@ -1,0 +1,7 @@
+# Ignore data folder (contains downloaded files)
+data/
+
+# Ignore unnecessary files
+__pycache__/
+*.pyc
+.DS_Store
