@@ -80,7 +80,8 @@ The following plot captures the weekly sentiment trend over time:
 
 A word cloud was created to visualize the most frequent words in the reviews.
 
-![Word Cloud](../images/word_cloud.png)
+![Word Cloud](../images/wordcloud_Negative.png)
+             (../images/wordcloud_Positive.png)
 
 ### Review Length Distribution
 
@@ -88,7 +89,7 @@ A word cloud was created to visualize the most frequent words in the reviews.
 
 ### Common Bigrams
 
-(To be added later if required)
+![Bigrams](../images/common_bigrams.png)
 
 ---
 
