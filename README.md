@@ -61,7 +61,7 @@ The aim of this analysis is to understand the overall sentiment expressed by cus
 
 The following plot captures the weekly sentiment trend over time:
 
-![Weekly Sentiment Trend](images/weekly_sentiment_trend.png)
+![Weekly Sentiment Trend](images/sentiment_trend_plot.png)
 
 ---
 
