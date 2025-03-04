@@ -61,7 +61,7 @@ The aim of this analysis is to understand the overall sentiment expressed by cus
 
 The following plot captures the weekly sentiment trend over time:
 
-![Weekly Sentiment Trend](../images/weekly_sentiment_trend.png)
+![Weekly Sentiment Trend](images/weekly_sentiment_trend.png)
 
 ---
 
@@ -80,16 +80,29 @@ The following plot captures the weekly sentiment trend over time:
 
 A word cloud was created to visualize the most frequent words in the reviews.
 
-![Word Cloud](../images/wordcloud_Negative.png)
-             (../images/wordcloud_Positive.png)
+![Word Cloud Negative](images/wordcloud_Negative.png)
+![Word Cloud Positive](/images/wordcloud_Positive.png)
 
 ### Review Length Distribution
 
-(To be added later if required)
+Understanding how long reviews typically are can give insights into customer behavior — longer reviews often contain richer feedback, while very short reviews may indicate quick feedback without much detail.
+
+**Sample Review Length Distribution:**
+
+![Review Length Distribution](images/review_length_distribution.png)
+
+### Common Bigrams Analysis
+Top 20 most common bigrams:
+| Rank | Bigram | Frequency |
+|---|---|---|
+| 1 | happy hour | 600 |
+| 2 | go back | 540 |
+| 3 | really good | 430 |
+| ... | ... | ... |
 
 ### Common Bigrams
 
-![Bigrams](../images/common_bigrams.png)
+![Bigrams](images/common_bigrams.png)
 
 ---
 
